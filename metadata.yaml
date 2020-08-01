@@ -1,0 +1,50 @@
+_repo: Beschrijving-van-het-Rijks-Planetarium-te-Franeker-Van-1772-tot-1780-uitgedacht-en-vervaardig__62755
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sannes, K. J. (Klaas Joh.)
+    aliases:
+    - Sannes, Klaas Johannes
+    - Sannes, Klaas Joh.
+    deathdate: 1830
+    gutenberg_agent_id: '52107'
+    url: http://www.gutenberg.org/2009/agents/52107
+creator:
+  authors:
+  - agent_name: Eekhoff, W. (Wopke)
+    alias: Eekhoff, Wopke
+    birthdate: 1809
+    deathdate: 1880
+    gutenberg_agent_id: '38504'
+    url: http://www.gutenberg.org/2009/agents/38504
+    wikipedia: https://nl.wikipedia.org/wiki/Wopke_Eekhoff
+  - agent_name: Swinden, Jan Hendrik van
+    aliases:
+    - Swinden, Jean Henri van
+    - Van Swinden, Jan Hendrik
+    - Swinden, J. H. van (Jan Hendrik van)
+    birthdate: 1746
+    deathdate: 1823
+    gutenberg_agent_id: '52106'
+    url: http://www.gutenberg.org/2009/agents/52106
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Jean_Henri_van_Swinden
+    - https://en.wikipedia.org/wiki/Jean_Henri_van_Swinden
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62755'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rijks-Planetarium (Franeker, Netherlands) -- History'
+- !lcc 'QB'
+- !lcsh 'Eisinga, Eise, 1744-1828'
+- GITenberg
+title: 'Beschrijving van het Rijks-Planetarium te Franeker
+
+  Van 1772 tot 1780 uitgedacht en vervaardigd door Eise Eisinga'
+url: http://www.gutenberg.org/ebooks/62755
